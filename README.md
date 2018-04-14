@@ -29,8 +29,8 @@ Giving The Community A Common Platform Where Student's, Developers Together Can 
   <li>Mohan Cm</li>
 </ul>
 
-## Contributors
-All Google Udacity Andriod Basics Scholars are eligible to Contribute
+# Contributors
+###All Google Udacity Andriod Basics Scholars are eligible to Contribute###
 
 **How You Can Contribute?**
 <ul>
@@ -42,3 +42,4 @@ All Google Udacity Andriod Basics Scholars are eligible to Contribute
 
 **Wanna Contribute?**</br>
 Feel Free To Fork The Repo And Request A PR.
+Schloras can contribute on more than one collaborative projects.
